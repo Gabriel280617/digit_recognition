@@ -50,5 +50,5 @@ O objetivo é mostrar como **CNNs** são capazes de capturar padrões espaciais 
 
 ##  Como rodar
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 
